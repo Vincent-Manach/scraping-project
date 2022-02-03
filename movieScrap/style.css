@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(img/background.png);
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    margin: 50px 150px;
+}
+
+.card-img {
+    width: auto;
+}
+
+.notes {
+    display: flex;
+    flex-direction: row;
+}
+
+.release {
+    margin: 0;
+}
+
+.public-note {
+    margin-left: 30px;
+}
